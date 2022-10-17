@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/React-restaurant-app/static/css/main.92481079.css",
+    "main.js": "/React-restaurant-app/static/js/main.fa65e3ca.js",
+    "static/media/meal.mp4": "/React-restaurant-app/static/media/meal.abf1848eb892c66e4143.mp4",
+    "static/media/bg.png": "/React-restaurant-app/static/media/bg.3d421b1b5682e1b67deb.png",
+    "static/media/welcome.png": "/React-restaurant-app/static/media/welcome.d724eb984456d9c97470.png",
+    "static/media/laurels.png": "/React-restaurant-app/static/media/laurels.e760828692795d4aafd7.png",
+    "static/media/chef.png": "/React-restaurant-app/static/media/chef.02d6c5b61bfdc70303b4.png",
+    "static/media/gallery04.png": "/React-restaurant-app/static/media/gallery04.c36a695f8a3b9d311106.png",
+    "static/media/gallery02.png": "/React-restaurant-app/static/media/gallery02.27663bd9016b72ccd328.png",
+    "static/media/gallery01.png": "/React-restaurant-app/static/media/gallery01.f2cbffe3049d6f91e0df.png",
+    "static/media/knife.png": "/React-restaurant-app/static/media/knife.1121c0a5afb62acb31cb.png",
+    "static/media/overlaybg.png": "/React-restaurant-app/static/media/overlaybg.165362eea72d1614ae28.png",
+    "static/media/orange.jpg": "/React-restaurant-app/static/media/orange.e7fc838b6176f47193fc.jpg",
+    "static/media/findus.png": "/React-restaurant-app/static/media/findus.741ebede3c8776792659.png",
+    "static/media/gallery03.png": "/React-restaurant-app/static/media/gallery03.3c3af594d2475bd4f985.png",
+    "static/media/G.png": "/React-restaurant-app/static/media/G.b571eb82e589ec305ec9.png",
+    "static/media/logo.png": "/React-restaurant-app/static/media/logo.0286194c03de0a90dac9.png",
+    "static/media/award02.png": "/React-restaurant-app/static/media/award02.8bbdd51499739653b003.png",
+    "static/media/award05.png": "/React-restaurant-app/static/media/award05.48a7f5206184009dcb29.png",
+    "static/media/award01.png": "/React-restaurant-app/static/media/award01.361a4bc44b59b55abeda.png",
+    "static/media/award03.png": "/React-restaurant-app/static/media/award03.3f7ee934c17dccbd5fc6.png",
+    "static/media/sign.png": "/React-restaurant-app/static/media/sign.9bf0bd90ad4caa17991f.png",
+    "index.html": "/React-restaurant-app/index.html",
+    "static/media/spoon.svg": "/React-restaurant-app/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
+    "main.92481079.css.map": "/React-restaurant-app/static/css/main.92481079.css.map",
+    "main.fa65e3ca.js.map": "/React-restaurant-app/static/js/main.fa65e3ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92481079.css",
+    "static/js/main.fa65e3ca.js"
+  ]
+}
