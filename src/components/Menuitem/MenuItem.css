@@ -1,0 +1,31 @@
+.menuItem {
+    display: flex;
+    flex-direction: column;
+}
+.menuItem__part1{
+    display: flex;
+    font-size:1.1rem;
+    align-items: center;
+    justify-content:space-between;
+}
+.menuItem__part1-1{
+    color: var(--color-golden);
+    font-family: var(--font-base);
+    font-size:1.3rem;
+}
+.menuItem__part1-1-2{
+    display:flex;
+    align-items: center;
+}
+.menuItem__part1-2 div{
+    width: 5rem;;
+    height: 0.1rem;
+    background-color:var(--color-golden);
+    margin:0 2rem;
+}
+.menuItem__part1-3{
+    color:#fff;
+}
+.menuItem__part2{
+    color:var(--color-grey)
+}

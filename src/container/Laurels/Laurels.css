@@ -1,0 +1,66 @@
+.laurels{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin:3rem 2rem;
+}
+.laurels__part1-1{
+    color:#fff;
+    font-size:1.2rem;
+    font-family: var(--font-base);
+    margin:2rem 0;
+}
+.laurels__part1-2{
+    color: var(--color-golden);
+    font-family: var(--font-base);
+    font-size:1.5rem;
+    margin:3rem 0;
+}
+.laurels__part2 img{
+    max-width:90%;
+}
+
+
+.awardCard{
+    display: flex;
+    margin:1rem 0;
+}
+.awardCard__part1 img{
+    width:5rem;
+}
+.awardCard__part2 p{
+    color:#fff;
+    font-family: var(--font-alt);
+    font-size:0.7rem;
+    margin-left:0.5rem;
+    max-width:10rem;
+}
+.awardCard__part2 p:first-child{
+    color: var(--color-golden)
+}
+.laurels__part1-3 {
+    display: flex;
+    flex-direction: column;
+    margin:3rem 0;
+}
+
+/* RESPONSIVE */
+
+@media (min-width:650px) {
+    .laurels{
+        margin:3rem 7rem;
+    }
+    .laurels__part1-3{
+        flex-direction: row;
+        flex-wrap:wrap;
+    }
+}
+@media (min-width:800px) {
+    .laurels{
+        flex-direction: row;
+        margin:3rem 20%;
+    }
+    .laurels__part2 img{
+        max-width:100%;
+    }
+}
