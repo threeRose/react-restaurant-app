@@ -20,7 +20,8 @@
     display: flex;
     flex-direction: column;
     align-items: flex-end;
-    text-align: right;   
+    text-align: right; 
+    margin:1rem 0;  
 }
 .aboutUs__part1, .aboutUs__part2, .aboutUs__part3{
     z-index:1;
@@ -48,6 +49,9 @@
     background-color: var(--color-crimson);
     border:none;
     cursor:pointer;
+}
+.aboutUs__part3 {
+    margin: 1rem 0;
 }
 
 
