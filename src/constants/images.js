@@ -21,7 +21,7 @@ import quote from '../assets/quote.png';
 import gericht from '../assets/gericht.png';
 import orange from '../assets/orange.jpg'
 
-export default {
+const images = {
   bg,
   chef,
   G,
@@ -45,3 +45,5 @@ export default {
   gericht,
   orange,
 };
+
+export default images;
