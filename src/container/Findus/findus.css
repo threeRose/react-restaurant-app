@@ -50,6 +50,7 @@
 @media (min-width:1000px) {
     .findUs{
         flex-direction: row;
+        margin: 5rem 7rem
     }
     .findUs__part1{
         min-width:25rem;
