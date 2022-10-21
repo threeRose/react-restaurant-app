@@ -1,6 +1,6 @@
 import images from './images';
 
-const hotDrinks = [
+export const hotDrinks = [
   {
     title: 'Tea',
     price: '$56',
@@ -28,7 +28,7 @@ const hotDrinks = [
   },
 ];
 
-const coldDrinks = [
+export const coldDrinks = [
   {
     title: 'Coca-Cola',
     price: '$20',
@@ -56,7 +56,7 @@ const coldDrinks = [
   },
 ];
 
-const awards = [
+export const awards = [
   {
     imgUrl: images.award02,
     title: 'Bib Gourmond',
@@ -79,4 +79,4 @@ const awards = [
   },
 ];
 
-export default { hotDrinks, coldDrinks, awards };
+
