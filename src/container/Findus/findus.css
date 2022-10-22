@@ -29,14 +29,6 @@
     font-size:1.3rem;
     margin:2rem 0;
 }
-.findUs__part1-4 button{
-    padding:0.5rem 1rem;
-    font-family: var(--font-base);
-    font-size:1rem;
-    background: var(--color-crimson);
-    border:none;
-    margin:2rem 0;
-}
 .findUs__part2{
     display: flex;
     justify-content: center;

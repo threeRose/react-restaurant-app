@@ -18,7 +18,7 @@ const Header = () => (
           <p>Sit Tellus Lobortis Sed Senectus Vivamus Molestie. Condimentum Volutpat Morbi Facilisis Quam Scelerisque Sapien. Et, Penatibus Aliquam Amet Tellus</p>
         </div>
         <div>
-          <button>Explore Menu</button>
+          <button className='first-btn'>Explore Menu</button>
         </div>
       </div>
 

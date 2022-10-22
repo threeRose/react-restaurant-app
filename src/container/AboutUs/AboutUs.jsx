@@ -20,7 +20,7 @@ const AboutUs = () => (
       </div>
 
       <div>
-        <button>Know More</button>
+        <button className='first-btn'>Know More</button>
       </div>
     </div>
 
@@ -40,7 +40,7 @@ const AboutUs = () => (
       </div>
 
       <div>
-        <button>Know More</button>
+        <button className='first-btn'>Know More</button>
       </div>
     </div>
   </div>

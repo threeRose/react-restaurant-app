@@ -41,15 +41,6 @@
     color:var(--color-grey);
     margin: 3rem 0;
 }
-.aboutUs__part1 button, .aboutUs__part3 button{
-    padding:0.7rem 1.5rem;
-    font-family: var(--font-base);
-    font-size:1rem;
-    font-weight: bold;
-    background-color: var(--color-crimson);
-    border:none;
-    cursor:pointer;
-}
 .aboutUs__part3 {
     margin: 1rem 0;
 }

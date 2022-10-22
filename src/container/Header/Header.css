@@ -19,16 +19,6 @@
     font-family: var(--font-base);
     margin:1.5rem 0;
 }
-.header__part1 button{
-    background-color: var(--color-crimson);
-    border:none;
-    cursor:pointer;
-    margin:2rem 0;
-    padding:0.7rem 1.5rem;
-    font-family:var(--font-base);
-    font-weight:bold;
-    font-size:1rem;
-}
 .header__part2 {
     display: flex;
     justify-content: center;

@@ -24,7 +24,7 @@ const FindUs = () => (
         </p>
       </div>
       <div className="findUs__part1-4">
-        <button>Visit Us</button>
+        <button className='first-btn'>Visit Us</button>
       </div>
     </div>
     <div className="findUs__part2">

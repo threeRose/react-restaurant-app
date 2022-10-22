@@ -27,16 +27,6 @@
 .specialMenu__part3-part2 img{
     max-width: 100%;
 }
-.specialMenu__part4 button{
-    padding:0.7rem 1.5rem;
-    margin:3rem 0;
-    font-family: var(--font-base);
-    font-size:1.1rem;
-    font-weight: bold;
-    background-color: var(--color-crimson);
-    border:none;
-    cursor:pointer;
-}
 .part3-part1-header{
     color:#fff;
     text-align: center;

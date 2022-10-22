@@ -79,4 +79,4 @@ export const awards = [
   },
 ];
 
-
+export default { hotDrinks, coldDrinks, awards };

@@ -45,7 +45,7 @@ const SpecialMenu = () => (
       </div>
     </div>
     <div className="specialMenu__part4">
-      <button type='button'>View More</button>
+      <button type='button' className='first-btn'>View More</button>
     </div>
   </div>
 );
