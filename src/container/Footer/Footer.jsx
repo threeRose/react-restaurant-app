@@ -1,7 +1,7 @@
 import React from 'react';
 import images from '../../constants/images';
 import image from '../../constants/images'
-import { FiFacebook, FiTwitter, FiInstagram } from 'react-icons/fi';
+import { FiFacebook, FiTwitter, FiInstagram, FiGithub } from 'react-icons/fi';
 import './Footer.css';;
 
 const FooterPart1 = () => (
@@ -38,14 +38,17 @@ const FooterPart2 = () => (
         <p>"The Best Way To Find Yourself Is To Lose Yourself In The Service Of Others."</p>
         <img src={images.spoon} alt="spoon" />
         <div className='footerPart2__part1-2_icons'>
-          <a href="/#">
+          <a target="_blank" rel="noreferrer" href="https://www.facebook.com/profile.php?id=100008407237987">
           <FiFacebook color='#fff' fontSize={20} />
           </a>
-          <a href="https://twitter.com/Furkanucgulll">
+          <a target="_blank" rel="noreferrer" href="https://twitter.com/Furkanucgulll">
           <FiTwitter color='#fff' fontSize={20} />
           </a>
-          <a href="/#">
+          <a target="_blank" rel="noreferrer" href="https://www.instagram.com/furkanucgul1/">
           <FiInstagram color='#fff' fontSize={20} />
+          </a>
+          <a target="_blank" rel="noreferrer" href="https://github.com/threeRose">
+          <FiGithub color='#fff' fontSize={20} />
           </a>
         </div>
       </div>
@@ -58,7 +61,7 @@ const FooterPart2 = () => (
       </div>
     </div>
     <div className="footerPart2__part2">
-    2021 Gericht. All Rights Reserved.
+      This site cloned by Furkan Ucgul.
     </div>
   </div>
 )
