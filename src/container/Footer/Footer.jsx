@@ -17,7 +17,7 @@ const FooterPart1 = () => (
       </div>
       <div className="footerPart1-3">
         <input type="text" placeholder='Enter Your Email Address' />
-        <button>Subscribe</button>
+        <button className='first-btn'>Subscribe</button>
       </div>
     </div>
   </div>

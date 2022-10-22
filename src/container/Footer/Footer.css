@@ -38,10 +38,8 @@
 }
 .footerPart1-3 button{
     padding:0.5rem 1rem;
-    font-family: var(--font-base);
-    background-color: var(--color-crimson);
-    border:none;
     margin:1rem 0;
+    font-size:0.9rem;
 }
 
 /* RESPONSIVE */
